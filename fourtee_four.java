@@ -1,5 +1,5 @@
 public class fourtee_four {
-    //INVERTED HALF-PYRAMID with Numbers pattern (ADVANCED PATTERN-2)
+    // INVERTED HALF-PYRAMID with Numbers pattern (ADVANCED PATTERN-2)
     public static void main(String[] args){
         int num = 6;
         for(int i = 1; i<=num; i++){
